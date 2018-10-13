@@ -55,11 +55,11 @@ npm test
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Your Name – [@YourTwitter](https://twitter.com/stonerichio) – YourEmail@example.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/yourname/github-link](https://github.com/RichStone/)
 
 ## Contributing
 
@@ -68,6 +68,29 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
+
+## Future Features Ideas
+- Feature One
+- Feature Two
+
+## Neccessary Refactorings
+- refactor this 
+- refactor that
+
+Use **Future Features** and **Neccessary Refactorings** rather sparingly and only as long as collaboration and project size are overseeable.
+
+## Code Metrics
+Let people know how you worked on this project.
+- How did you plan it?
+- How much time did it take?
+- What was easy, where did you struggle?
+e.g.: [this project](https://datagoodie.com/blog/introducing-data-collection-tool/)
+
+*this README.md template was originally created by [Dan Bader](https://twitter.com/dbader_org) and extend by [RichStone](https://github.com/RichStone/)*
+
+*An example project that uses this extensive template is my [data collection tool](https://github.com/RichStone/data-collection-download-tool)*
+
+> let me know if you need any translations of the template.
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
