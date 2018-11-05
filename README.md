@@ -1,6 +1,6 @@
 ## This is RichStone's collection of different types of READMEs. Check out the types folder for more types or let me know about new cool READMEs :)
 
-## Example for a seriously detailed README:
+### Example of a seriously detailed README:
 
 # Product Name
 > Short blurb about what your product does.
