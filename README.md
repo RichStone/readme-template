@@ -1,3 +1,6 @@
+# This is RichStone's collection of different types of READMEs. Check out the types folder for more types or let me know about new cool READMEs :)
+
+
 # Product Name
 > Short blurb about what your product does.
 
