@@ -2,6 +2,12 @@
 
 ### Example of a seriously detailed README:
 
+*this README.md template was originally created by [Dan Bader](https://twitter.com/dbader_org) and extend by [RichStone](https://github.com/RichStone/)*
+
+*An example project that uses this extensive template is my [data collection tool](https://github.com/RichStone/data-collection-download-tool)*
+
+(let me know if you need any translations of the template.)
+
 # Product Name
 > Short blurb about what your product does.
 
@@ -89,12 +95,6 @@ Let people know how you worked on this project.
 - How much time did it take?
 - What was easy, where did you struggle?
 e.g.: [this project](https://datagoodie.com/blog/introducing-data-collection-tool/)
-
-*this README.md template was originally created by [Dan Bader](https://twitter.com/dbader_org) and extend by [RichStone](https://github.com/RichStone/)*
-
-*An example project that uses this extensive template is my [data collection tool](https://github.com/RichStone/data-collection-download-tool)*
-
-> let me know if you need any translations of the template.
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
